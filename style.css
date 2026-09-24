@@ -56,6 +56,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    gap: var(--spacing-sm);
 }
 .description-and-prep-time{
     display: flex;
